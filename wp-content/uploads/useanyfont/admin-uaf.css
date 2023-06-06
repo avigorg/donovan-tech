@@ -1,0 +1,12 @@
+				@font-face {
+					font-family: 'firasans-black';
+					src: url('https://donovan-tech-website.netlify.app/wp-content/uploads/useanyfont/6737FiraSans-Black.woff2') format('woff2'),
+						url('https://donovan-tech-website.netlify.app/wp-content/uploads/useanyfont/6737FiraSans-Black.woff') format('woff');
+						  font-display: auto;
+				}
+
+				.firasans-black{font-family: 'firasans-black' !important;}
+
+				.et_gf_firasans-black{background:none !important;font-family:firasans-black;text-indent:0 !important;font-size:25px;}
+
+		
