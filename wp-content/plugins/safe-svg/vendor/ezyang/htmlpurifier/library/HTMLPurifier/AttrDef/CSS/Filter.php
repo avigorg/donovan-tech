@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0019</td>
-<td bgcolor="#eeeeec" align="right">366472</td>
+<td bgcolor="#eeeeec" align="center">0.0022</td>
+<td bgcolor="#eeeeec" align="right">366488</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\AttrDef\CSS\Filter.php" bgcolor="#eeeeec">...\Filter.php<b>:</b>0</td>
 </tr>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0031</td>
-<td bgcolor="#eeeeec" align="right">372072</td>
+<td bgcolor="#eeeeec" align="center">0.0025</td>
+<td bgcolor="#eeeeec" align="right">372088</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\ChildDef\Table.php" bgcolor="#eeeeec">...\Table.php<b>:</b>0</td>
 </tr>

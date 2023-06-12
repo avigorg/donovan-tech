@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0009</td>
-<td bgcolor="#eeeeec" align="right">370240</td>
+<td bgcolor="#eeeeec" align="center">0.0032</td>
+<td bgcolor="#eeeeec" align="right">365664</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\twentytwentytwo\inc\patterns\footer-query-images-title-citation.php" bgcolor="#eeeeec">...\footer-query-images-title-citation.php<b>:</b>0</td>
 </tr>

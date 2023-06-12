@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0004</td>
-<td bgcolor="#eeeeec" align="right">362976</td>
+<td bgcolor="#eeeeec" align="center">0.0018</td>
+<td bgcolor="#eeeeec" align="right">362992</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\simply-static\vendor\symfony\css-selector\Node\AbstractNode.php" bgcolor="#eeeeec">...\AbstractNode.php<b>:</b>0</td>
 </tr>

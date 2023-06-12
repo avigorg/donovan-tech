@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0018</td>
-<td bgcolor="#eeeeec" align="right">365448</td>
+<td bgcolor="#eeeeec" align="center">0.0019</td>
+<td bgcolor="#eeeeec" align="right">365464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\AttrTransform\BoolToCSS.php" bgcolor="#eeeeec">...\BoolToCSS.php<b>:</b>0</td>
 </tr>

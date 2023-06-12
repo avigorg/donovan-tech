@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0029</td>
-<td bgcolor="#eeeeec" align="right">365960</td>
+<td bgcolor="#eeeeec" align="center">0.0021</td>
+<td bgcolor="#eeeeec" align="right">365976</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\AttrDef\HTML\LinkTypes.php" bgcolor="#eeeeec">...\LinkTypes.php<b>:</b>0</td>
 </tr>

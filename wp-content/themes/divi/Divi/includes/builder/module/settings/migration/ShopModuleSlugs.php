@@ -17,7 +17,7 @@
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
 <td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">363056</td>
+<td bgcolor="#eeeeec" align="right">363072</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\module\settings\migration\ShopModuleSlugs.php" bgcolor="#eeeeec">...\ShopModuleSlugs.php<b>:</b>0</td>
 </tr>

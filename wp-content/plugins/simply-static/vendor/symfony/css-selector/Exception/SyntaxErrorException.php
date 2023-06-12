@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0027</td>
-<td bgcolor="#eeeeec" align="right">365176</td>
+<td bgcolor="#eeeeec" align="center">0.0015</td>
+<td bgcolor="#eeeeec" align="right">365192</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\simply-static\vendor\symfony\css-selector\Exception\SyntaxErrorException.php" bgcolor="#eeeeec">...\SyntaxErrorException.php<b>:</b>0</td>
 </tr>

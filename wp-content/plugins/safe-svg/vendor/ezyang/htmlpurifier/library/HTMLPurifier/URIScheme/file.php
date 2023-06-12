@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0027</td>
-<td bgcolor="#eeeeec" align="right">365416</td>
+<td bgcolor="#eeeeec" align="center">0.0043</td>
+<td bgcolor="#eeeeec" align="right">365432</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\URIScheme\file.php" bgcolor="#eeeeec">...\file.php<b>:</b>0</td>
 </tr>

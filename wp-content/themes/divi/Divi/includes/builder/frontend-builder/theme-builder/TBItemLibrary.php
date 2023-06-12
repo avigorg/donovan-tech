@@ -16,29 +16,29 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">363056</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">363072</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\frontend-builder\theme-builder\TBItemLibrary.php" bgcolor="#eeeeec">...\TBItemLibrary.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">363056</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">363072</td>
 <td bgcolor="#eeeeec">ET_Builder_TBItem_Library::instance(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\frontend-builder\theme-builder\TBItemLibrary.php" bgcolor="#eeeeec">...\TBItemLibrary.php<b>:</b>159</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">363216</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">363232</td>
 <td bgcolor="#eeeeec">ET_Builder_TBItem_Library->__construct(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\frontend-builder\theme-builder\TBItemLibrary.php" bgcolor="#eeeeec">...\TBItemLibrary.php<b>:</b>151</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">4</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">363216</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">363232</td>
 <td bgcolor="#eeeeec">ET_Builder_TBItem_Library->_register_cpt_and_taxonomies(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\frontend-builder\theme-builder\TBItemLibrary.php" bgcolor="#eeeeec">...\TBItemLibrary.php<b>:</b>79</td>
 </tr>

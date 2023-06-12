@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0075</td>
-<td bgcolor="#eeeeec" align="right">367160</td>
+<td bgcolor="#eeeeec" align="center">0.0110</td>
+<td bgcolor="#eeeeec" align="right">364352</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\twentytwentytwo\inc\patterns\footer-navigation-copyright.php" bgcolor="#eeeeec">...\footer-navigation-copyright.php<b>:</b>0</td>
 </tr>

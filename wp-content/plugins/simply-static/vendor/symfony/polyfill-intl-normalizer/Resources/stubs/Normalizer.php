@@ -13,8 +13,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0027</td>
-<td bgcolor="#eeeeec" align="right">363912</td>
+<td bgcolor="#eeeeec" align="center">0.0009</td>
+<td bgcolor="#eeeeec" align="right">363928</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\simply-static\vendor\symfony\polyfill-intl-normalizer\Resources\stubs\Normalizer.php" bgcolor="#eeeeec">...\Normalizer.php<b>:</b>0</td>
 </tr>

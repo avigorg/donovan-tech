@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0102</td>
-<td bgcolor="#eeeeec" align="right">392840</td>
+<td bgcolor="#eeeeec" align="center">0.0050</td>
+<td bgcolor="#eeeeec" align="right">392856</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\Strategy\MakeWellFormed.php" bgcolor="#eeeeec">...\MakeWellFormed.php<b>:</b>0</td>
 </tr>

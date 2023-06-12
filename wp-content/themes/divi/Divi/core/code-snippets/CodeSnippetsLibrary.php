@@ -16,29 +16,29 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">361744</td>
+<td bgcolor="#eeeeec" align="center">0.0000</td>
+<td bgcolor="#eeeeec" align="right">361760</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\core\code-snippets\CodeSnippetsLibrary.php" bgcolor="#eeeeec">...\CodeSnippetsLibrary.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">361744</td>
+<td bgcolor="#eeeeec" align="center">0.0000</td>
+<td bgcolor="#eeeeec" align="right">361760</td>
 <td bgcolor="#eeeeec">ET_Builder_Code_Snippets_Library::instance(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\core\code-snippets\CodeSnippetsLibrary.php" bgcolor="#eeeeec">...\CodeSnippetsLibrary.php<b>:</b>138</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">361904</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">361920</td>
 <td bgcolor="#eeeeec">ET_Builder_Code_Snippets_Library->__construct(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\core\code-snippets\CodeSnippetsLibrary.php" bgcolor="#eeeeec">...\CodeSnippetsLibrary.php<b>:</b>130</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">4</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">361904</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">361920</td>
 <td bgcolor="#eeeeec">ET_Builder_Code_Snippets_Library->_register_cpt_and_taxonomies(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\core\code-snippets\CodeSnippetsLibrary.php" bgcolor="#eeeeec">...\CodeSnippetsLibrary.php<b>:</b>83</td>
 </tr>

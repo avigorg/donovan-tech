@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0030</td>
-<td bgcolor="#eeeeec" align="right">364808</td>
+<td bgcolor="#eeeeec" align="center">0.0017</td>
+<td bgcolor="#eeeeec" align="right">364824</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\AttrTransform\Lang.php" bgcolor="#eeeeec">...\Lang.php<b>:</b>0</td>
 </tr>

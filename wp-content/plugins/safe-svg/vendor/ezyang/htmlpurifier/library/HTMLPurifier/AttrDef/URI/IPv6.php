@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0036</td>
-<td bgcolor="#eeeeec" align="right">366472</td>
+<td bgcolor="#eeeeec" align="center">0.0018</td>
+<td bgcolor="#eeeeec" align="right">366488</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\AttrDef\URI\IPv6.php" bgcolor="#eeeeec">...\IPv6.php<b>:</b>0</td>
 </tr>

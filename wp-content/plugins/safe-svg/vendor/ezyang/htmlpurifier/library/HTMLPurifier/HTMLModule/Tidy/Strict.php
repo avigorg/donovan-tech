@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0037</td>
-<td bgcolor="#eeeeec" align="right">364936</td>
+<td bgcolor="#eeeeec" align="center">0.0022</td>
+<td bgcolor="#eeeeec" align="right">364952</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\HTMLModule\Tidy\Strict.php" bgcolor="#eeeeec">...\Strict.php<b>:</b>0</td>
 </tr>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0042</td>
-<td bgcolor="#eeeeec" align="right">406208</td>
+<td bgcolor="#eeeeec" align="center">0.0021</td>
+<td bgcolor="#eeeeec" align="right">376192</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\simply-static\vendor\voku\simple_html_dom\src\voku\helper\SimpleHtmlDomBlank.php" bgcolor="#eeeeec">...\SimpleHtmlDomBlank.php<b>:</b>0</td>
 </tr>

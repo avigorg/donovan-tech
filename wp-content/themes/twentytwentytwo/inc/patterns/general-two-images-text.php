@@ -17,7 +17,7 @@
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
 <td bgcolor="#eeeeec" align="center">0.0012</td>
-<td bgcolor="#eeeeec" align="right">372424</td>
+<td bgcolor="#eeeeec" align="right">366112</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\twentytwentytwo\inc\patterns\general-two-images-text.php" bgcolor="#eeeeec">...\general-two-images-text.php<b>:</b>0</td>
 </tr>

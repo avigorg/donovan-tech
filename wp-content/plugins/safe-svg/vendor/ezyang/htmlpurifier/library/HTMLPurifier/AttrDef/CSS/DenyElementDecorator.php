@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0022</td>
-<td bgcolor="#eeeeec" align="right">365512</td>
+<td bgcolor="#eeeeec" align="center">0.0017</td>
+<td bgcolor="#eeeeec" align="right">365528</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\AttrDef\CSS\DenyElementDecorator.php" bgcolor="#eeeeec">...\DenyElementDecorator.php<b>:</b>0</td>
 </tr>

@@ -17,35 +17,35 @@
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
 <td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">362992</td>
+<td bgcolor="#eeeeec" align="right">363008</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\feature\global-presets\Settings.php" bgcolor="#eeeeec">...\Settings.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
 <td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">362992</td>
+<td bgcolor="#eeeeec" align="right">363008</td>
 <td bgcolor="#eeeeec">ET_Builder_Global_Presets_Settings::instance(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\feature\global-presets\Settings.php" bgcolor="#eeeeec">...\Settings.php<b>:</b>883</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
 <td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">363144</td>
+<td bgcolor="#eeeeec" align="right">363160</td>
 <td bgcolor="#eeeeec">ET_Builder_Global_Presets_Settings->__construct(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\feature\global-presets\Settings.php" bgcolor="#eeeeec">...\Settings.php<b>:</b>207</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">4</td>
 <td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">363144</td>
+<td bgcolor="#eeeeec" align="right">363160</td>
 <td bgcolor="#eeeeec">ET_Builder_Global_Presets_Settings->_migrate_presets_storage(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\feature\global-presets\Settings.php" bgcolor="#eeeeec">...\Settings.php<b>:</b>85</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">5</td>
 <td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">363144</td>
+<td bgcolor="#eeeeec" align="right">363160</td>
 <td bgcolor="#eeeeec">ET_Builder_Global_Presets_Settings::is_presets_storage_migrated(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\feature\global-presets\Settings.php" bgcolor="#eeeeec">...\Settings.php<b>:</b>103</td>
 </tr>

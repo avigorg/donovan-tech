@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0109</td>
-<td bgcolor="#eeeeec" align="right">388488</td>
+<td bgcolor="#eeeeec" align="center">0.0047</td>
+<td bgcolor="#eeeeec" align="right">388504</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\Lexer\DirectLex.php" bgcolor="#eeeeec">...\DirectLex.php<b>:</b>0</td>
 </tr>

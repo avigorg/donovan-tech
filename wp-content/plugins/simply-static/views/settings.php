@@ -14,8 +14,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">363384</td>
+<td bgcolor="#eeeeec" align="center">0.0051</td>
+<td bgcolor="#eeeeec" align="right">392888</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\simply-static\views\settings.php" bgcolor="#eeeeec">...\settings.php<b>:</b>0</td>
 </tr>

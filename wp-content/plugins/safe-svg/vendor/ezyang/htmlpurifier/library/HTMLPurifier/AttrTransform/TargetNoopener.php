@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0029</td>
-<td bgcolor="#eeeeec" align="right">365448</td>
+<td bgcolor="#eeeeec" align="center">0.0015</td>
+<td bgcolor="#eeeeec" align="right">365464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\AttrTransform\TargetNoopener.php" bgcolor="#eeeeec">...\TargetNoopener.php<b>:</b>0</td>
 </tr>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0028</td>
-<td bgcolor="#eeeeec" align="right">365704</td>
+<td bgcolor="#eeeeec" align="center">0.0017</td>
+<td bgcolor="#eeeeec" align="right">365720</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\HTMLModule\SafeScripting.php" bgcolor="#eeeeec">...\SafeScripting.php<b>:</b>0</td>
 </tr>

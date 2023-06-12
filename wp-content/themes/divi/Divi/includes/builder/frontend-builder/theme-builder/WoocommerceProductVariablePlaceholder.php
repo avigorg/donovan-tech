@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0025</td>
-<td bgcolor="#eeeeec" align="right">416152</td>
+<td bgcolor="#eeeeec" align="center">0.0014</td>
+<td bgcolor="#eeeeec" align="right">376528</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\frontend-builder\theme-builder\WoocommerceProductVariablePlaceholder.php" bgcolor="#eeeeec">...\WoocommerceProductVariablePlaceholder.php<b>:</b>0</td>
 </tr>

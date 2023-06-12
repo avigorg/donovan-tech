@@ -16,29 +16,29 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">362704</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">362720</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\feature\SplitLibrary.php" bgcolor="#eeeeec">...\SplitLibrary.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">362704</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">362720</td>
 <td bgcolor="#eeeeec">ET_Builder_Split_Library::instance(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\feature\SplitLibrary.php" bgcolor="#eeeeec">...\SplitLibrary.php<b>:</b>341</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">362760</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">362776</td>
 <td bgcolor="#eeeeec">ET_Builder_Split_Library->__construct(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\feature\SplitLibrary.php" bgcolor="#eeeeec">...\SplitLibrary.php<b>:</b>28</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">4</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">362760</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">362776</td>
 <td bgcolor="#eeeeec">ET_Builder_Split_Library->_register_ajax_callbacks(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\feature\SplitLibrary.php" bgcolor="#eeeeec">...\SplitLibrary.php<b>:</b>38</td>
 </tr>
