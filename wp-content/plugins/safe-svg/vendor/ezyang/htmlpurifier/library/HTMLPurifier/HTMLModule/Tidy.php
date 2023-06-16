@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0025</td>
+<td bgcolor="#eeeeec" align="center">0.0030</td>
 <td bgcolor="#eeeeec" align="right">372120</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\HTMLModule\Tidy.php" bgcolor="#eeeeec">...\Tidy.php<b>:</b>0</td>

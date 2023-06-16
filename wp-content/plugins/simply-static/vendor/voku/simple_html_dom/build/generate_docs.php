@@ -13,8 +13,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0009</td>
-<td bgcolor="#eeeeec" align="right">363648</td>
+<td bgcolor="#eeeeec" align="center">0.0010</td>
+<td bgcolor="#eeeeec" align="right">366104</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\simply-static\vendor\voku\simple_html_dom\build\generate_docs.php" bgcolor="#eeeeec">...\generate_docs.php<b>:</b>0</td>
 </tr>
@@ -37,8 +37,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0009</td>
-<td bgcolor="#eeeeec" align="right">363648</td>
+<td bgcolor="#eeeeec" align="center">0.0010</td>
+<td bgcolor="#eeeeec" align="right">366104</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\simply-static\vendor\voku\simple_html_dom\build\generate_docs.php" bgcolor="#eeeeec">...\generate_docs.php<b>:</b>0</td>
 </tr>

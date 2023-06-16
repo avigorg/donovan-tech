@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0013</td>
+<td bgcolor="#eeeeec" align="center">0.0119</td>
 <td bgcolor="#eeeeec" align="right">364240</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\simply-static\vendor\a5hleyrich\wp-background-processing\wp-background-processing.php" bgcolor="#eeeeec">...\wp-background-processing.php<b>:</b>0</td>

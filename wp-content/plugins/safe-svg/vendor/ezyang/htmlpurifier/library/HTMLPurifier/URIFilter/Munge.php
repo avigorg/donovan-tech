@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0025</td>
+<td bgcolor="#eeeeec" align="center">0.0100</td>
 <td bgcolor="#eeeeec" align="right">368024</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\URIFilter\Munge.php" bgcolor="#eeeeec">...\Munge.php<b>:</b>0</td>

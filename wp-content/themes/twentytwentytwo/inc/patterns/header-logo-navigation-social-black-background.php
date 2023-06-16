@@ -17,7 +17,7 @@
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
 <td bgcolor="#eeeeec" align="center">0.0011</td>
-<td bgcolor="#eeeeec" align="right">365224</td>
+<td bgcolor="#eeeeec" align="right">368616</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\twentytwentytwo\inc\patterns\header-logo-navigation-social-black-background.php" bgcolor="#eeeeec">...\header-logo-navigation-social-black-background.php<b>:</b>0</td>
 </tr>

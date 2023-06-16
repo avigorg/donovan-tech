@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0015</td>
-<td bgcolor="#eeeeec" align="right">371032</td>
+<td bgcolor="#eeeeec" align="center">0.0012</td>
+<td bgcolor="#eeeeec" align="right">379200</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\twentytwentytwo\inc\patterns\page-about-links.php" bgcolor="#eeeeec">...\page-about-links.php<b>:</b>0</td>
 </tr>

@@ -17,8 +17,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0008</td>
-<td bgcolor="#eeeeec" align="right">364952</td>
+<td bgcolor="#eeeeec" align="center">0.0006</td>
+<td bgcolor="#eeeeec" align="right">370432</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\frontend-builder\bfb-template.php" bgcolor="#eeeeec">...\bfb-template.php<b>:</b>0</td>
 </tr>

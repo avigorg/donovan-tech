@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0009</td>
-<td bgcolor="#eeeeec" align="right">366944</td>
+<td bgcolor="#eeeeec" align="center">0.0016</td>
+<td bgcolor="#eeeeec" align="right">375048</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\twentytwentytwo\inc\patterns\page-sidebar-poster.php" bgcolor="#eeeeec">...\page-sidebar-poster.php<b>:</b>0</td>
 </tr>

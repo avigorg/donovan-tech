@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0014</td>
+<td bgcolor="#eeeeec" align="center">0.0089</td>
 <td bgcolor="#eeeeec" align="right">365328</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\simply-static\vendor\symfony\css-selector\Node\HashNode.php" bgcolor="#eeeeec">...\HashNode.php<b>:</b>0</td>

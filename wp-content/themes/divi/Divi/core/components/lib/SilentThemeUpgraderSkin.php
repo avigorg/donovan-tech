@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0010</td>
-<td bgcolor="#eeeeec" align="right">363856</td>
+<td bgcolor="#eeeeec" align="center">0.0012</td>
+<td bgcolor="#eeeeec" align="right">365832</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\core\components\lib\SilentThemeUpgraderSkin.php" bgcolor="#eeeeec">...\SilentThemeUpgraderSkin.php<b>:</b>0</td>
 </tr>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0015</td>
-<td bgcolor="#eeeeec" align="right">366384</td>
+<td bgcolor="#eeeeec" align="center">0.0026</td>
+<td bgcolor="#eeeeec" align="right">377856</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\module\field\template\border\Radius.php" bgcolor="#eeeeec">...\Radius.php<b>:</b>0</td>
 </tr>

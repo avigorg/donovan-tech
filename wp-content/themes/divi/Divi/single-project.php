@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">366616</td>
+<td bgcolor="#eeeeec" align="center">0.0008</td>
+<td bgcolor="#eeeeec" align="right">381536</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\single-project.php" bgcolor="#eeeeec">...\single-project.php<b>:</b>0</td>
 </tr>

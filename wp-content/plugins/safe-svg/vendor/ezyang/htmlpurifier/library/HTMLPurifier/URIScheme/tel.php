@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0656</td>
+<td bgcolor="#eeeeec" align="center">0.0218</td>
 <td bgcolor="#eeeeec" align="right">365176</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\URIScheme\tel.php" bgcolor="#eeeeec">...\tel.php<b>:</b>0</td>

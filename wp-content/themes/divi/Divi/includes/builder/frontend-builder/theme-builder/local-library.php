@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
 <td bgcolor="#eeeeec" align="right">363064</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\frontend-builder\theme-builder\local-library.php" bgcolor="#eeeeec">...\local-library.php<b>:</b>0</td>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0014</td>
-<td bgcolor="#eeeeec" align="right">364360</td>
+<td bgcolor="#eeeeec" align="center">0.0012</td>
+<td bgcolor="#eeeeec" align="right">367560</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\twentytwentytwo\inc\patterns\general-subscribe.php" bgcolor="#eeeeec">...\general-subscribe.php<b>:</b>0</td>
 </tr>

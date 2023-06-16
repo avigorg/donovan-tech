@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0237</td>
+<td bgcolor="#eeeeec" align="center">0.0238</td>
 <td bgcolor="#eeeeec" align="right">548216</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\Lexer\PH5P.php" bgcolor="#eeeeec">...\PH5P.php<b>:</b>0</td>

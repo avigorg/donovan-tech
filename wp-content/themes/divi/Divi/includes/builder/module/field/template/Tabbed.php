@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0013</td>
-<td bgcolor="#eeeeec" align="right">367840</td>
+<td bgcolor="#eeeeec" align="center">0.5164</td>
+<td bgcolor="#eeeeec" align="right">383944</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\module\field\template\Tabbed.php" bgcolor="#eeeeec">...\Tabbed.php<b>:</b>0</td>
 </tr>

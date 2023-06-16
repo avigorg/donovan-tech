@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0020</td>
+<td bgcolor="#eeeeec" align="center">0.0024</td>
 <td bgcolor="#eeeeec" align="right">365560</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\DefinitionCache\Decorator\Cleanup.php" bgcolor="#eeeeec">...\Cleanup.php<b>:</b>0</td>

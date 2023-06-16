@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0019</td>
+<td bgcolor="#eeeeec" align="center">0.1408</td>
 <td bgcolor="#eeeeec" align="right">368024</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\TagTransform\Font.php" bgcolor="#eeeeec">...\Font.php<b>:</b>0</td>

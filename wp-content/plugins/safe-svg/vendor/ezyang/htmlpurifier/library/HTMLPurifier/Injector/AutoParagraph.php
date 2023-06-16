@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0033</td>
+<td bgcolor="#eeeeec" align="center">0.0036</td>
 <td bgcolor="#eeeeec" align="right">380312</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\Injector\AutoParagraph.php" bgcolor="#eeeeec">...\AutoParagraph.php<b>:</b>0</td>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0008</td>
-<td bgcolor="#eeeeec" align="right">364376</td>
+<td bgcolor="#eeeeec" align="center">0.0009</td>
+<td bgcolor="#eeeeec" align="right">368448</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\twentytwentytwo\functions.php" bgcolor="#eeeeec">...\functions.php<b>:</b>0</td>
 </tr>

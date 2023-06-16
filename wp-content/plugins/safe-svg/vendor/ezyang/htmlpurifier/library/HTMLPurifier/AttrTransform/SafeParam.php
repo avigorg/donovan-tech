@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0020</td>
+<td bgcolor="#eeeeec" align="center">0.0122</td>
 <td bgcolor="#eeeeec" align="right">367256</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\AttrTransform\SafeParam.php" bgcolor="#eeeeec">...\SafeParam.php<b>:</b>0</td>

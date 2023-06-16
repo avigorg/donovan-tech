@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
+<td bgcolor="#eeeeec" align="center">0.0004</td>
 <td bgcolor="#eeeeec" align="right">362728</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\module\FullwidthMap.php" bgcolor="#eeeeec">...\FullwidthMap.php<b>:</b>0</td>

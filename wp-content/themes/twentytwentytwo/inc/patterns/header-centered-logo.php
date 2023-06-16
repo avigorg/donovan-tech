@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0007</td>
-<td bgcolor="#eeeeec" align="right">365048</td>
+<td bgcolor="#eeeeec" align="center">0.0050</td>
+<td bgcolor="#eeeeec" align="right">368400</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\twentytwentytwo\inc\patterns\header-centered-logo.php" bgcolor="#eeeeec">...\header-centered-logo.php<b>:</b>0</td>
 </tr>

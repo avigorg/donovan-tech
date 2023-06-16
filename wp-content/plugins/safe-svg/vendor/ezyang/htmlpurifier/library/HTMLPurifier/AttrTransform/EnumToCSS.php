@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0018</td>
+<td bgcolor="#eeeeec" align="center">0.0023</td>
 <td bgcolor="#eeeeec" align="right">365976</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\plugins\safe-svg\vendor\ezyang\htmlpurifier\library\HTMLPurifier\AttrTransform\EnumToCSS.php" bgcolor="#eeeeec">...\EnumToCSS.php<b>:</b>0</td>

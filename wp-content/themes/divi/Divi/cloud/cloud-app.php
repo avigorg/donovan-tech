@@ -16,14 +16,14 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
 <td bgcolor="#eeeeec" align="right">362544</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\cloud\cloud-app.php" bgcolor="#eeeeec">...\cloud-app.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
 <td bgcolor="#eeeeec" align="right">362568</td>
 <td bgcolor="#eeeeec">ET_Cloud_App::instance(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\cloud\cloud-app.php" bgcolor="#eeeeec">...\cloud-app.php<b>:</b>365</td>

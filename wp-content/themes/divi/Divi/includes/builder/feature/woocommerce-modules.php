@@ -16,15 +16,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0163</td>
-<td bgcolor="#eeeeec" align="right">441576</td>
+<td bgcolor="#eeeeec" align="center">0.0034</td>
+<td bgcolor="#eeeeec" align="right">651448</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\feature\woocommerce-modules.php" bgcolor="#eeeeec">...\woocommerce-modules.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0163</td>
-<td bgcolor="#eeeeec" align="right">441648</td>
+<td bgcolor="#eeeeec" align="center">0.0035</td>
+<td bgcolor="#eeeeec" align="right">651520</td>
 <td bgcolor="#eeeeec">et_builder_wc_init(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\divi\Divi\includes\builder\feature\woocommerce-modules.php" bgcolor="#eeeeec">...\woocommerce-modules.php<b>:</b>2428</td>
 </tr>

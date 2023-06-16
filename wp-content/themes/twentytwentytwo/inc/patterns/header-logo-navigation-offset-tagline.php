@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0011</td>
-<td bgcolor="#eeeeec" align="right">364936</td>
+<td bgcolor="#eeeeec" align="center">0.0016</td>
+<td bgcolor="#eeeeec" align="right">368056</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\twentytwentytwo\inc\patterns\header-logo-navigation-offset-tagline.php" bgcolor="#eeeeec">...\header-logo-navigation-offset-tagline.php<b>:</b>0</td>
 </tr>

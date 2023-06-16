@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0015</td>
-<td bgcolor="#eeeeec" align="right">371296</td>
+<td bgcolor="#eeeeec" align="center">0.0018</td>
+<td bgcolor="#eeeeec" align="right">378872</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="D:\trabajo\proyectos\donovan\web\wp-content\themes\twentytwentytwo\inc\patterns\page-about-large-image-and-buttons.php" bgcolor="#eeeeec">...\page-about-large-image-and-buttons.php<b>:</b>0</td>
 </tr>
